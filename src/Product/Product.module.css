@@ -1,0 +1,24 @@
+.product {
+
+}
+
+.Name {
+    margin: 10px;
+}
+
+.Img {
+    width: 225px;
+    height: 285px;
+}
+
+.ProductImg {
+
+}
+
+.product h4 {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 0;
+
+}
